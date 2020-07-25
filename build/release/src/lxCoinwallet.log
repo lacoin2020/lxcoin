@@ -1,0 +1,49 @@
+2020-Jul-25 01:03:20.285717 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:04:06.591218 INFO [simplewallet] Generated new wallet: intuvRyBRyzR4m1gmbUb8L9Qs1bCxGwiMQCLofXKdHYd4Pniz7ruDCTFKqAPqZf2MoRN7U2BmMkCSH7S44pgZFjf7LPtbsPXfmc
+2020-Jul-25 01:04:06.591218 INFO [simplewallet] view key: ef3b210c688d1d792617955ee8e9687761f170706d986c6bce3df308e3361508
+2020-Jul-25 01:04:06.591373 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2020-Jul-25 01:11:01.624326 INFO [simplewallet] Height 1, transaction 9912fe750f57fbfb3baca557e70753543bfbccecb8ae0c0b4bdcee4dea8fcb8f, spent 26931132010894458.88
+2020-Jul-25 01:11:01.624465 INFO [simplewallet] Height 2, transaction a565dbf4ded28d703a713754ab044b4ee7dd2c39d26650063d129dc7ea0e94ff, received 100.00
+2020-Jul-25 01:11:06.617565 INFO [simplewallet] Height 3, transaction 1b31ea064e968c232fb421c1054b1fdaf481a07f227705b907990ca0f392d898, received 100.00
+2020-Jul-25 01:15:12.380930 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:15:33.703453 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:15:34.708872 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:15:37.018404 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:25:02.314083 INFO [simplewallet] lxcoin wallet v0.1.3.1.0.3()
+2020-Jul-25 01:25:25.046103 INFO [simplewallet] Generated new wallet: intuvWUgcBZcqFJNHztM74TBzzmp4Sk5kXYPzzRQjRrEhV15UqdbP2J6AKwFZmdumYHq6NvuZ1PR3MCYFPD5rpZ5JDQ95r2rhgp
+2020-Jul-25 01:25:25.046103 INFO [simplewallet] view key: 5ca5d5ccc6da3db4177f613f793f46937edd4c0434920293a31e947337ce1e06
+2020-Jul-25 01:25:25.046433 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2020-Jul-25 01:29:21.757579 INFO [simplewallet] Height 4, transaction 43c54af3f1ac806e15eca6985bb46fa79e386b1c2e8cc4a3b88df1acbd199591, received 100.00
+2020-Jul-25 01:33:16.830651 INFO [simplewallet] Height 5, transaction b62d1205625a5f3d0fe2572f906282f9d79a9527d4df00ae9073816a6a684f2f, received 100.00
+2020-Jul-25 01:36:21.853791 INFO [simplewallet] Height 6, transaction a6f189e54ca1dd1ee2e32a8c9e856e5c534abb41b8aff34ffddfa865a5c6b33c, received 100.00
+2020-Jul-25 01:36:26.854307 INFO [simplewallet] Height 7, transaction f124a4927b9495167cb3c8d3383c737eee90ee903249fd6a0c57829547aee6f1, received 100.00
+2020-Jul-25 01:38:36.869680 INFO [simplewallet] Height 8, transaction d9e538d0c4b8eea250ecc8cfb246cc5f31d322f0093d577e7df7bd358b33caec, received 100.00
+2020-Jul-25 01:38:46.870883 INFO [simplewallet] Height 9, transaction 90d0aed04f48a8ca45fa6417ad880e3c9880f031faef7b85f51e4000a353c212, received 100.00
+2020-Jul-25 01:39:51.879420 INFO [simplewallet] Height 10, transaction f1dffaea8b5babb4660c681cf18b8d0deba7dcf8dd145358def2ddf251bbf0e3, received 100.00
+2020-Jul-25 01:40:31.884371 INFO [simplewallet] Height 11, transaction 13ecf1089e3c517cde5571b42acb8efd0d74b41078499f38c856b668f7352e47, received 100.00
+2020-Jul-25 01:41:16.890194 INFO [simplewallet] Height 12, transaction c09b22ba8dd71f59e5fdf9760f9a46db03e9375d709ada79cee9388aa5dedc29, received 100.00
+2020-Jul-25 01:44:01.911254 INFO [simplewallet] Height 13, transaction 68b00b8b34a6c9d8541536c18984487ff2dab086ff1e5d89469cdf2baf3fefc7, received 100.00
+2020-Jul-25 01:44:21.913565 INFO [simplewallet] Height 14, transaction 10551df0b66d22fd65e02a4bb0665cf1bbfe86b5c0f487681d714a92b133daf2, received 100.00
+2020-Jul-25 01:47:21.975282 INFO [simplewallet] Height 15, transaction 1e17bed6f21d7b2a3ac816266118bbdab1ac8adac14b11e670323bad33b9b78d, received 100.00
+2020-Jul-25 01:49:11.989964 INFO [simplewallet] Height 16, transaction ed01abaa3d95a3c9380068de2d1ab996bd40cd5ffa87393788af2d55e766e527, received 100.00
+2020-Jul-25 01:49:26.991864 INFO [simplewallet] Height 17, transaction 2f92a4519730ff32460439e201259d837cc5e3a0200ca35a1eb96c29a5758cbb, received 100.00
+2020-Jul-25 01:51:32.007756 INFO [simplewallet] Height 18, transaction 86ff92d775d73f9f36e86d43348673aded0e830089e6bfe02b8547fc27ed8e29, received 100.00
+2020-Jul-25 01:53:32.023265 INFO [simplewallet] Height 19, transaction 72b10eab7e533e32ebbe5810ac9dc41e10818ca0c36788df48450450687faad6, received 100.00
+2020-Jul-25 01:54:22.030571 INFO [simplewallet] Height 20, transaction 474fcf3940fe8dbff4e0dd041a22c5d5526bcd583be990e138468caae2800de6, received 100.00
+2020-Jul-25 01:54:47.033431 INFO [simplewallet] Height 21, transaction cc968b4ad58009ceddfc99496bcd63ff54fd1769b8484610054041137cc7e2f7, received 100.00
+2020-Jul-25 01:57:27.057394 INFO [simplewallet] Height 22, transaction 30e20862d3be23bef06f313624d4b3a129fdc0079b41aacbb4b1b1d2ef23d5c9, received 100.00
+2020-Jul-25 02:00:47.084190 INFO [simplewallet] Height 23, transaction f67973fbb7084d898dbfb3bb1086a20ec0f4f7730a637262a4092dbb6a5eafe5, received 100.00
+2020-Jul-25 02:01:12.087761 INFO [simplewallet] Height 24, transaction 59f0bd1fa1a535195997dd682db69691d1f74e2d8252083baee3ef3244f36725, received 100.00
+2020-Jul-25 02:03:40.269677 ERROR [simplewallet] Error: wallet failed to connect to daemon (http://localhost:18236).
